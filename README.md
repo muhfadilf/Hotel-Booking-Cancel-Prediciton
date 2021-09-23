@@ -16,3 +16,9 @@ Lose potential of sales due to cancel booking customer, while tourism market is 
 
 ## Goals
 Increase revenue from primary business (room sales)
+
+# Early Insight from The Data
+1. Booking Cancellation Rate
+2. Customer Type & Cancellation Status
+3. Deposit Type & Cancellation Status
+4. Cancellation Rate by Month
