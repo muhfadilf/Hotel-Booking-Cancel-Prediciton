@@ -17,13 +17,13 @@ Lose potential of sales due to cancel booking customer, while tourism market is 
 Increase revenue from primary business (room sales)
 
 # Early Insight from The Data
-1. Booking Cancellation Rate
+1. Booking cancellation rate problem up to 37.04%
 ![](https://github.com/muhfadilf/Hotel-Booking-Cancel-Prediciton/blob/main/images/booking_cancellation_rate.png)
-2. Customer Type & Cancellation Status
+2. Customers with transient types have the biggest cancellation rate compared to other types of customers
 ![](https://github.com/muhfadilf/Hotel-Booking-Cancel-Prediciton/blob/main/images/customer_type.jpg)
-3. Deposit Type & Cancellation Status
+3. Customers with Non-Refund deposit types have the biggest cancellation rate compared to other types of deposit type
 ![](https://github.com/muhfadilf/Hotel-Booking-Cancel-Prediciton/blob/main/images/deposit_type_2.jpg)
-4. Cancellation Rate by Month
+4. The lowest cancellation rate is from November to March (Autumn - Winter) and the highest is April to October (Spring - Summer).
 ![](https://github.com/muhfadilf/Hotel-Booking-Cancel-Prediciton/blob/main/images/Cancellation_rate_month.jpg)
 
 ## Data Cleansing and Preprocessing
