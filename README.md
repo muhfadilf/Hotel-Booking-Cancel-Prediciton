@@ -10,3 +10,9 @@ Predict potential cancel booking customers to accuracy up demand forecast
 - Column `country`, `last_name`, and `prefix_phone_number` is handled by feature hasher (many unique value) . Columns with categorical values is handled with one-hot encoding
 - Train model with 5 different algorithms
 - Validate the model with data test
+
+## Problem
+Lose potential of sales due to cancel booking customer, while tourism market is growing each year
+
+## Goals
+Increase revenue from primary business (room sales)
