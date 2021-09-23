@@ -19,10 +19,10 @@ Increase revenue from primary business (room sales)
 
 # Early Insight from The Data
 1. Booking Cancellation Rate
-2. ![](https://github.com/muhfadilf/Hotel-Booking-Cancel-Prediciton/blob/main/images/booking_cancellation_rate.png)
+![](https://github.com/muhfadilf/Hotel-Booking-Cancel-Prediciton/blob/main/images/booking_cancellation_rate.png)
 3. Customer Type & Cancellation Status
-4. ![](https://github.com/muhfadilf/Hotel-Booking-Cancel-Prediciton/blob/main/images/customer_type.jpg)
+![](https://github.com/muhfadilf/Hotel-Booking-Cancel-Prediciton/blob/main/images/customer_type.jpg)
 5. Deposit Type & Cancellation Status
-6. ![](https://github.com/muhfadilf/Hotel-Booking-Cancel-Prediciton/blob/main/images/deposit_type_2.jpg)
+![](https://github.com/muhfadilf/Hotel-Booking-Cancel-Prediciton/blob/main/images/deposit_type_2.jpg)
 7. Cancellation Rate by Month
-8. ![](https://github.com/muhfadilf/Hotel-Booking-Cancel-Prediciton/blob/main/images/Cancellation_rate_month.jpg)
+![](https://github.com/muhfadilf/Hotel-Booking-Cancel-Prediciton/blob/main/images/Cancellation_rate_month.jpg)
