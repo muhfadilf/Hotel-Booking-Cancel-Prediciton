@@ -8,7 +8,7 @@ Predict potential cancel booking customers to accuracy up demand forecast
 - Handle outliers 
 - Feature encoding
 - Train model with 5 different algorithms
-- Validate the model with data test
+
 
 ## Problem
 Lose potential of sales due to cancel booking customer, while tourism market is growing each year
@@ -17,7 +17,7 @@ Lose potential of sales due to cancel booking customer, while tourism market is 
 Increase revenue from primary business (room sales)
 
 # Early Insight from The Data
-1. Booking cancellation rate problem up to 37.04%
+1. Booking cancellation rate problem up to 37%
 ![](https://github.com/muhfadilf/Hotel-Booking-Cancel-Prediciton/blob/main/images/booking_cancellation_rate.png)
 2. Customers with transient types have the biggest cancellation rate compared to other types of customers
 ![](https://github.com/muhfadilf/Hotel-Booking-Cancel-Prediciton/blob/main/images/customer_type.jpg)
@@ -31,3 +31,9 @@ Increase revenue from primary business (room sales)
 - Drop the features that can't be used for the model namely `reservation_status`, `name`, `email`, `phone number`, `credit_card`, and `reservation_status_date`
 - Handle outliers with z- score and standardization/ normalization
 - Column `country`, `last_name`, and `prefix_phone_number` is handled by feature hasher (many unique value) . Columns with categorical values is handled with one-hot encoding
+
+## Model Building
+
+## Model Evaluation
+
+# Business Recomendations
