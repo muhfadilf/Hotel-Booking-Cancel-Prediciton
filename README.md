@@ -33,7 +33,23 @@ Increase revenue from primary business (room sales)
 - Column `country`, `last_name`, and `prefix_phone_number` is handled by feature hasher (many unique value) . Columns with categorical values is handled with one-hot encoding
 
 ## Model Building
+I tried four different Scenarios to apply to the model. First, split the data into train set & test set (size is 30%). Trained the model with 5 different algorithms and evaluated them with Precision. Precision metric used to minimize in correctly prediciting customer who are not going to cancel booking as cancel. The model was trained with:
+
+- Logistic Regression
+- Decission Tree
+- Adaboost
+- Random Forest
+- XGboost
 
 ## Model Evaluation
+The model were evaluated with Precision
+
+| Eval Metrics / Classifier | Logistic Regression | Decission Tree | Adaboost | Random Forest | XGboost |
+| :---                      |    :----:           |    :---:       | :---:    | :---:         | :---:   |
+| Accuracy                  | 0.81                | 0.85           | 0.83     | 0.89          | 0.81    |
+| Precision                 | 0.79                | 0.81           | 0.82     | 0.89          | 0.86    |
+| Recall                    | 0.70                | 0.82           | 0.71     | 0.81          | 0.81    |
+| F1-score                  | 0.74                | 0.81           | 0.76     | 0.85          | 0.83    |
+| AUC                       | 0.79                | 0.85           | 0.81     | 0.87          | 0.86    |
 
 # Business Recomendations
