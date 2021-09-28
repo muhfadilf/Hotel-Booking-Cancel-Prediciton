@@ -53,3 +53,8 @@ The Random Forest model far outperformed the other approaches. The model were ev
 | AUC                       | 0.79                | 0.85           | 0.81     | 0.87          | 0.86    |
 
 # Business Recomendations
+### Cancellation Policies
+
+### Overbooking Strategy
+
+### Revenue Simulation
