@@ -42,7 +42,7 @@ I tried four different Scenarios to apply to the model. First, split the data in
 - XGboost
 
 ## Model Evaluation
-The model were evaluated with Precision
+The Random Forest model far outperformed the other approaches. The model were evaluated with Precision
 
 | Eval Metrics / Classifier | Logistic Regression | Decission Tree | Adaboost | Random Forest | XGboost |
 | :---                      |    :----:           |    :---:       | :---:    | :---:         | :---:   |
