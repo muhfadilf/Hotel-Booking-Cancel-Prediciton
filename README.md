@@ -54,7 +54,12 @@ The Random Forest model far outperformed the other approaches. The model were ev
 
 # Business Recomendations
 ### Cancellation Policies
-
+![](https://github.com/muhfadilf/Hotel-Booking-Cancel-Prediciton/blob/main/images/BusinessRecom1.png)
+![](https://github.com/muhfadilf/Hotel-Booking-Cancel-Prediciton/blob/main/images/BusinessRecom2.png)
 ### Overbooking Strategy
-
+![](https://github.com/muhfadilf/Hotel-Booking-Cancel-Prediciton/blob/main/images/BusinessRecom3.png)
 ### Revenue Simulation
+![](https://github.com/muhfadilf/Hotel-Booking-Cancel-Prediciton/blob/main/images/BusinessRecom4.png)
+![](https://github.com/muhfadilf/Hotel-Booking-Cancel-Prediciton/blob/main/images/BusinessRecom5.png)
+### Project Evaluation
+![](https://github.com/muhfadilf/Hotel-Booking-Cancel-Prediciton/blob/main/images/BusinessRecom6.png)
